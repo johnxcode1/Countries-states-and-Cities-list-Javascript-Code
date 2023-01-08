@@ -1,5 +1,5 @@
 /*
-	*	By: Gwatana John
+	*	By: John X code
 	*	johnxcoded1@yahoo.com
 
 	*	Description:
